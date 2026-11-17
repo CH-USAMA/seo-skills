@@ -50,6 +50,35 @@ The sequence he gives, which matches [new-website-step-by-step.md](new-website-s
 4. **Technical**, "from day one make no mistakes, because mistakes become technical issues slowly": HTTPS, no duplicate content, page speed (he says no more than 1 to 2 seconds here, 3 seconds in another video), mobile friendly, a reviewed robots.txt, structured data, no broken pages or deleted URLs left behind. See [technical-seo-audit.md](technical-seo-audit.md).
 5. **Backlinks:** not required to rank, but they **secure** the ranking against a competitor who builds links. Types: Web 2.0, guest posts, forums, profiles; the important ones are guest posts and niche edits, which cost money. See [backlinks-and-offpage.md](backlinks-and-offpage.md).
 
+## Case: the tool site he sold (`uELVUK4bGX0`, 20 Apr, 6.2K views)
+
+"I Sold a Tool Website For $14K (Case Study)", read from the transcript panel and translated by hand. The amount in the caption is garbled, the title says $14K. His account of one site, all claims:
+
+- It averaged about **$950 a month from AdSense** when he sold it. He **almost deleted it** because the first 3 months showed little. He kept publishing about **3 pages a day**, got AdSense approved, and traffic grew month by month: from **month 5 about 200 to 400 organic visits a day**, then nearly doubling each month as the older pages matured.
+- The four things he calls most important: **find the niche, build the tool, write the content, link building.**
+- **Niche check** (his questions): can it hold keywords for **multiple tools**? Is it **evergreen**? Are there **enough searches**? Is competition low enough to rank? (His full niche method is in a separate video; see the step-1 section above.)
+- **Build:** vibe coding, where you give an AI model a detailed written brief, then deploy the tool on the site. He promises a live multi-tool build in a later video.
+- **On-page** for each tool page: semantic content, the keyword in the title and an H2, in image alt text, a few internal and external links, schema.
+- **Indexing is the hidden gate.** Early pages can sit unindexed for weeks, and a page Google has not indexed "does not exist" for ranking. His fix is publishing **2 to 3 pages a day with a proper structure**: **topical mapping** (categorise keywords by topic) plus an **internal linking structure** so the pages interconnect and build topical authority, which is what lets you rank without backlinks. Do no technical damage meanwhile: fast site, SSL, no deleted pages left behind, mobile responsive.
+- **Links:** start with foundational ones (Web 2.0, profile links, forum links, video links). To push a page to number one he says to buy **quality, often paid, links from DR 90-type sites**, which are expensive but "move the needle". *My note:* paid links are against Google's spam policy when they pass ranking credit; prefer links earned or placed editorially, and see [backlinks-and-offpage.md](backlinks-and-offpage.md).
+- **Proof site he shows:** a calculator-type site, with AdSense in its source, estimated by SimilarWeb at about **300,000 visits a month from Google with DR 6**, and by his estimate about **$6,000 a month** from AdSense. Estimates, not measured revenue; the point is that DR 6 with that traffic means the keywords did not need links.
+- **Lesson for any site:** a slow first three months is normal when the pages are right; quitting then is the usual failure. Pair with the patience timeline in [seven-lessons-and-timeline.md](seven-lessons-and-timeline.md).
+
+## Teardown: a "$10K a month" tool site (`-wAl_HKE9ZU`, 4 May, 5.1K views)
+
+"Reverse Engineering a $10K/Mo Tool Site", read from the transcript panel and translated by hand. He picks a **numerology sub-niche (destiny matrix calculators)** and dissects it as a template for choosing a niche and a business model. The revenue is his estimate (the figure is garbled in the captions, the title says about $10K a month), so treat it as an illustration.
+
+**What the target looked like (Ahrefs):** DR 21, about **146,000 organic visits a month**, 230+ referring domains, and only **19 pages in total**, with most traffic on one calculator page; traffic from many countries, so it also does **international SEO** (a site optimised for several languages and regions). A DR-21 site with that traffic means a gap: nobody is working it hard.
+
+**His five-step check before copying a niche:**
+1. **Trend:** Google Trends, worldwide, last 5 years. His result: it peaked and settled at a stable level, not declining.
+2. **Gap:** Ahrefs Keywords Explorer, Matching terms, filter for **lowest DR 20** in the top 10 or top 5. Many of the keywords turn out to be variations of one intent (chart, matrix of destiny, calculator), so they belong on one page; see [topical-mapping-and-intent.md](topical-mapping-and-intent.md).
+3. **Competitor strength:** open the keyword in Google and read each ranking site's DR and referring domains. Here the top four were **DR 21 (about 300 referring domains), DR 13 (about 100 referring domains, 52K visits), DR 2 (51 referring domains, 8K visits) and DR 4 (about 100)**: weak, no heavy SEO behind them.
+4. **Ceiling:** how much traffic one page of this topic can take (the leader gets about 140K from this topic alone).
+5. **Monetisation by copying how competitors earn:** this niche sells **subscriptions** ("get my free destiny chart", a pricing section on the site), not AdSense. His arithmetic: at **$15 a month and 10,000 visitors a month with 1% converting**, that is 100 customers, about **$1,500 a month** (illustrative, not a forecast). "Do not reinvent, go and look at what your competitors do": if they sell subscriptions, build a subscription, and have the tool built with the same tool that builds it (Claude Code or Replit).
+
+**Cautions:** he says you can give an AI coding tool the competitor's URL and ask it to build that exact tool. Copy the *idea and feature set*, never their code, wording or design. A numerology niche can attract policy and trust issues (predictions and paid readings), so check AdSense and payment-provider rules before choosing it. The method (trend, gap, strength, ceiling, model) transfers to any niche.
+
 ## What he keeps for the paid workshop
 
 Niche selection secrets, untapped keyword methods, AI-written content that ranks, advanced tool building and installation, **AdSense approval tricks**, design, and the on-page, technical and off-page detail. He puts the cost of building and ranking a tool site at roughly $100 to $200 and says the workshop is a few live Zoom classes. None of those details are in the videos, so do not invent them. For AdSense approval rely on Google's own AdSense program policies (original, useful content, privacy policy, clear navigation) and the `seo-site-audit` skill.

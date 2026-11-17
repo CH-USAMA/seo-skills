@@ -1,8 +1,8 @@
 ---
 name: ghulamali-seo-master
-description: Practitioner SEO + GEO/AEO playbook distilled from Ghulam Ali's most-watched 2026 YouTube videos (GMS Digitals), meant to sit on top of the BeyondSEO and seo-site-audit skills. Use whenever the user wants to decide WHAT to do for a website and in what order - untapped keyword research, topical mapping, competitor reverse-engineering, semantic content, technical SEO secrets, backlink quality, the 30-day SEO+GEO roadmap, getting cited in ChatGPT/Gemini/Perplexity, local SEO keywords, why a site is not ranking, growing traffic from existing pages, Shopify and e-commerce stores (product pages, collections, filters, blog posts that sell, competitor store teardown), or ideas for new sites (tool sites, AdSense). Load it together with `beyondseo` whenever BeyondSEO is used for an audit, competitor study, content plan or backlink plan, because BeyondSEO supplies the evidence and this skill supplies the priorities. Trigger on "what should we do for my site", "plan SEO", "SEO strategy", "audit my site", "keyword research", "rank faster", "new website SEO", "Search Console", "GEO", "AEO", "get recommended by ChatGPT", "Shopify SEO", "online store", "product pages", "WooCommerce", "Ghulam Ali", even if no skill is named.
+description: Practitioner SEO + GEO/AEO playbook distilled from Ghulam Ali's most-watched 2026 YouTube videos (GMS Digitals), meant to sit on top of the BeyondSEO and seo-site-audit skills. Use whenever the user wants to decide WHAT to do for a website and in what order - untapped keyword research, topical mapping, competitor reverse-engineering, semantic content, technical SEO secrets, backlink quality, the 30-day SEO+GEO roadmap, getting cited in ChatGPT/Gemini/Perplexity, local SEO keywords, Google Business Profile and the map pack, real-estate and restaurant sites, a 30-day plan, why a site is not ranking, growing traffic from existing pages, Shopify and e-commerce stores (product pages, collections, filters, blog posts that sell, competitor store teardown), or ideas for new sites (tool sites, AdSense). Load it together with `beyondseo` whenever BeyondSEO is used for an audit, competitor study, content plan or backlink plan, because BeyondSEO supplies the evidence and this skill supplies the priorities. Trigger on "what should we do for my site", "plan SEO", "SEO strategy", "audit my site", "keyword research", "rank faster", "new website SEO", "Search Console", "GEO", "AEO", "get recommended by ChatGPT", "Shopify SEO", "online store", "product pages", "WooCommerce", "Google Business Profile", "map pack", "local SEO", "Ghulam Ali", even if no skill is named.
 metadata:
-  version: 0.4.0
+  version: 0.5.0
   source: youtube.com/@ghulamaliseo, most-watched 2026 videos (see sources/)
 ---
 
@@ -43,7 +43,11 @@ Working order for any site: get evidence first (BeyondSEO crawl or Search Consol
 | Rank without leaning on backlinks, worked keyword example | [rank-without-backlinks.md](references/rank-without-backlinks.md) |
 | An online shop (Shopify, also WooCommerce): product and collection page copy, filters and duplicate URLs, store keyword research, blog posts that rank but do not sell, copying a competitor store's easy keywords, CRO basics, link ideas for products | [shopify-seo.md](references/shopify-seo.md) |
 | Local business keywords (neighbourhood, near me, landmarks, competitor names, mobile) | [local-seo-keywords.md](references/local-seo-keywords.md) |
-| Tool websites and AdSense: niche, AI-built tool, SEO | [tool-sites-and-adsense.md](references/tool-sites-and-adsense.md) |
+| Google Business Profile / map pack: categories, name rules that avoid suspension, reviews, engagement signals, why a competitor outranks you | [google-business-profile.md](references/google-business-profile.md) |
+| A real-estate or restaurant client: keyword types, content kinds, location pages, citations, schema | [local-industry-playbooks.md](references/local-industry-playbooks.md) |
+| A day-by-day plan for the first 30 days (keyword filter, foundation, content, on-page, links, AI search), as an agency would run it | [agency-30-day-plan.md](references/agency-30-day-plan.md) |
+| Seven lessons from ten years, realistic timeline (3 to 6 months), five SEO myths, the one-page keyword test | [seven-lessons-and-timeline.md](references/seven-lessons-and-timeline.md) |
+| Tool websites and AdSense: niche, AI-built tool, SEO, a teardown of a "$10K a month" tool site, the site he sold | [tool-sites-and-adsense.md](references/tool-sites-and-adsense.md) |
 | Beginner end-to-end: intent types, keyword sweet spot, money pages, 30-day plan | [beginner-blueprint-2026.md](references/beginner-blueprint-2026.md) |
 
 ## The ten rules that run through all his material

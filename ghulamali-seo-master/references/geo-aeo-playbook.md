@@ -63,6 +63,22 @@ Publish data nobody else has (an audience survey, an honest analysis of your own
 - Do not promise citations. BeyondSEO's own guidance is the same.
 - The big stats above are from his video; verify before using them in client deliverables.
 
+## Case study: replacing a local business's ads with organic (`cMD6HkvHvik`, 15 Jul)
+
+"Laziest Way to Get Customers From Google (Without Ads)", 4K views, read from the transcript panel and translated by hand. His agency promised a local service business, which was spending about $3,000 a month on ads at rising cost per lead, that **within 120 days organic sales would replace the ad sales**. Claims, not verified facts:
+
+- **What went wrong:** traditional SEO alone, **no results in the first month**, and ads had been **switched off at the same time**, so the client's business slowed and he asked to turn ads back on. *My note:* do not cut paid ads until organic leads are arriving; taper them. The risky pitch cost them a month of trust.
+- **What he found by studying every source AI cited for the client's topics** (AI breaks one question into many small searches, the "query fan-out" above, so you cannot see or track the hidden searches; the question is whether you appear in what the machine reads):
+  1. cited businesses had the **same name, address and phone on every directory and platform**; inconsistency makes the machine ignore you;
+  2. competitors had **structured factual articles and press-release-style pieces** that language models pick up easily;
+  3. their links came from **relevant sites in the same field or area, not big sites**: relation matters more than size;
+  4. competitors collected **fresh, real reviews every week**;
+  5. a **gap list**: every question where competitors are recommended and the client is not.
+- **What they did, in order:** (1) **third-party mentions**, linked and unlinked, on authority publications, review sites, Reddit, forums, Wikipedia-type sources and industry lists; (2) **content structure**: clear Q&A style, definitive statements, a concise summary at the top of the page, FAQs, comparison tables, specific numbers and features, each answer in a **self-contained passage** rather than scattered; (3) **technical access**: no crawler blocked (Google, ChatGPT, Perplexity), schema in place; (4) **topical authority**: cover the niche from every angle with original data and expertise.
+- **His result:** in about 6 weeks one page reached number one for one keyword (a very low competition one), and within 2 weeks of that the first customer arrived; the customer's intake form showed they had come from ChatGPT. Google rankings were already on page one or two for low-competition keywords.
+- **His conclusions:** Google rankings and AI citations are closely correlated (as rankings rose, citations rose); ChatGPT click-through is very low and most people using AI never click a site, so it helps **branding**, while **Google is still the best traffic source**; AI visibility is "a shiny object": organic traffic is dented, but abandoning search traffic to chase AI alone is self-harm.
+- **To use:** the five-point list is a good template for an AI-visibility audit of any local or service business; run it before spending on more content. See also [local-seo-keywords.md](local-seo-keywords.md).
+
 ## How BeyondSEO fits
 
 It already ships `playbooks/aeo-geo/` (AEO writing, generative-engine optimisation, citations and source-worthiness, topical authority, AI-overview opportunity audit, entity SEO). Use those for execution and structure, and this file for his priorities, the four-layer order, and the measurement approach. See [combining-with-beyondseo.md](combining-with-beyondseo.md).

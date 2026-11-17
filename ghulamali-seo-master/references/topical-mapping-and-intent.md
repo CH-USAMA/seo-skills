@@ -38,6 +38,31 @@ His two failure examples:
 
 In "The Only Video You Need to Watch" the structure itself comes from a competitor: a printing company had a Services menu with parents (vinyl sticker printing) and children (window graphics), and audience pages (printing for hotels in London). Each became its own page. See [competitor-reverse-engineering.md](competitor-reverse-engineering.md).
 
+## Site architecture rules (`pFtYbWx1GSk`, "Website Architecture Playbook", 2026)
+
+A short video on why most businesses fail to rank: **a poor structure**, meaning how the pages are organised and linked. Fix it and the site helps both search engines and visitors. Read from the transcript panel and translated by hand.
+
+**Why it matters (his three reasons):**
+1. Google discovers pages by **following internal links**. A page that no other page links to, an **orphan**, will not be indexed properly, and a page that is not indexed earns nothing.
+2. Links **pass authority**: link from your strong pages to your weak ones so the "link juice" flows, and the **anchor text** tells Google how the two pages relate.
+3. Visitors move from page to page through a clear structure, and you can **walk someone to the buying page** through internal links.
+
+**The three rules of a good structure:**
+- **Flat:** every page reachable within **three clicks** of the homepage.
+- **Grouped:** one broad **pillar page** with the narrow pages linking to it. This builds topical authority and makes the site easy for Google to understand.
+- **No orphans:** a page nothing links to is ignored and not prioritised.
+
+**Building it:**
+- Choose the structure for your site type: an online shop uses categories; a publisher uses topics.
+- Short URLs that describe the page.
+- **Predictable navigation:** main categories in the header; policies, contact and about in the footer; a separate mobile menu if you want one.
+- **Breadcrumbs on every page** (a trail back to where the visitor came from).
+- Everything goes in the **sitemap**, which you submit in Search Console.
+
+**Repairing an existing site:** run a crawl with Semrush, Ahrefs or Screaming Frog and look for **orphan pages, broken internal links and pages found only after five to seven clicks**. See [technical-seo-audit.md](technical-seo-audit.md) for what to do with each orphan.
+
+**His proof:** he shows an agency client's site that he says grew to a monthly revenue figure (the number is shown on screen, not in the captions) from structure and high-quality content alone. Treat it as a claim. The online-shop version of this, where Shopify cannot nest collections, is in [shopify-seo.md](shopify-seo.md).
+
 ## Quick checks for an existing site
 
 - Search `site:yourdomain.com` plus the keyword to spot two pages targeting one intent.

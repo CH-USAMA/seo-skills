@@ -32,7 +32,7 @@ Search the keyword in Google and look at the top five results. A keyword is a gr
 | Wrong kind of result | At least one irrelevant result, or a social media or forum result |
 | Young site | At least one site that is about a year old or newer |
 | Relevance | You can see which ones you could realistically beat |
-| allintitle count | Under about **50** (strong), under **300** (acceptable). The two videos disagree: 50 in "How to Never Fail", 300 in "Instant Google Ranking". Treat 50 as the green zone and 300 as the ceiling |
+| allintitle count | Under about **50** (strong), under **300** (acceptable). The videos disagree: 50 in "How to Never Fail", 300 in "Instant Google Ranking", and **100** in "800+ Hours SEO Learning" (he also says DR under 30 there). Treat 50 as the green zone and 300 as the ceiling |
 
 In "Never Fail" he says: when you find a keyword that meets these, "pick it", because it will rank easily.
 

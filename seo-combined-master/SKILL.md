@@ -13,7 +13,7 @@ This skill is the **conductor**. It does not replace the three skills it uses; i
 | Layer | Where it lives | Use it for |
 |---|---|---|
 | Evidence | `~/.claude/skills/beyondseo` (do not edit it; its updater refuses edited files) | Crawl, audit, competitor discovery, backlink and reputation checks, branded reports, 30/60/90-day plans |
-| Priorities | `~/.claude/skills/ghulamali-seo-master` (SKILL.md routes to 19 references) | What to do first and why: keywords, topical maps, content, internal links, GEO, local SEO, online shops (`shopify-seo.md`), new-site plans |
+| Priorities | `~/.claude/skills/ghulamali-seo-master` (SKILL.md routes to 23 references) | What to do first and why: keywords, topical maps, content, internal links, GEO, local SEO, online shops (`shopify-seo.md`), new-site plans |
 | Rules | `~/.claude/skills/seo-site-audit` | Google Search Essentials, Rank Math/Yoast, sitemaps, schema, redirects, shop and theme bugs |
 | Method | this folder | The workflow below, a Search Console triage script, field lessons, a per-site notes template |
 
