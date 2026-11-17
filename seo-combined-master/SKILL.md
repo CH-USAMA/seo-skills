@@ -1,6 +1,6 @@
 ---
 name: seo-combined-master
-description: One entry point that runs BeyondSEO (evidence - crawl, audit, competitors, backlinks, reports), the Ghulam Ali playbook (priorities and tactics) and seo-site-audit (Google's rules, WordPress/WooCommerce/Shopify fixes) together on any website. Use whenever the user wants to improve, audit, plan or grow a website's SEO or AI-search visibility, start work on a new client's site, "do SEO on this site", read Google Search Console data, rewrite titles and descriptions, find pages stuck near page one, plan content, internal links or backlinks, or repeat the method used on one site on another. Trigger on "SEO", "audit my site", "Search Console", "rank", "GEO", "AEO", "another website", "new client site", "BeyondSEO", "Beyond Tahir", "Ghulam Ali", even if no skill is named.
+description: One entry point that runs BeyondSEO (evidence - crawl, audit, competitors, backlinks, reports), the Ghulam Ali playbook (priorities and tactics) and seo-site-audit (Google's rules, WordPress/WooCommerce/Shopify fixes) together on any website. Use whenever the user wants to improve, audit, plan or grow a website's SEO or AI-search visibility, start work on a new client's site, "do SEO on this site", read Google Search Console data, rewrite titles and descriptions, find pages stuck near page one, plan content, internal links or backlinks, or repeat the method used on one site on another. Trigger on "SEO", "audit my site", "Search Console", "rank", "GEO", "AEO", "another website", "new client site", "Shopify SEO", "online store", "BeyondSEO", "Beyond Tahir", "Ghulam Ali", even if no skill is named.
 metadata:
   version: 0.1.0
   built-from: beyondseo (Muhammad Tahir Ashraf), ghulamali-seo-master, seo-site-audit, and field lessons from marianholyart.com
@@ -13,7 +13,7 @@ This skill is the **conductor**. It does not replace the three skills it uses; i
 | Layer | Where it lives | Use it for |
 |---|---|---|
 | Evidence | `~/.claude/skills/beyondseo` (do not edit it; its updater refuses edited files) | Crawl, audit, competitor discovery, backlink and reputation checks, branded reports, 30/60/90-day plans |
-| Priorities | `~/.claude/skills/ghulamali-seo-master` (SKILL.md routes to 18 references) | What to do first and why: keywords, topical maps, content, internal links, GEO, local SEO, new-site plans |
+| Priorities | `~/.claude/skills/ghulamali-seo-master` (SKILL.md routes to 19 references) | What to do first and why: keywords, topical maps, content, internal links, GEO, local SEO, online shops (`shopify-seo.md`), new-site plans |
 | Rules | `~/.claude/skills/seo-site-audit` | Google Search Essentials, Rank Math/Yoast, sitemaps, schema, redirects, shop and theme bugs |
 | Method | this folder | The workflow below, a Search Console triage script, field lessons, a per-site notes template |
 

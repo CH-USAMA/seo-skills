@@ -1,8 +1,8 @@
 ---
 name: ghulamali-seo-master
-description: Practitioner SEO + GEO/AEO playbook distilled from Ghulam Ali's most-watched 2026 YouTube videos (GMS Digitals), meant to sit on top of the BeyondSEO and seo-site-audit skills. Use whenever the user wants to decide WHAT to do for a website and in what order - untapped keyword research, topical mapping, competitor reverse-engineering, semantic content, technical SEO secrets, backlink quality, the 30-day SEO+GEO roadmap, getting cited in ChatGPT/Gemini/Perplexity, local SEO keywords, why a site is not ranking, growing traffic from existing pages, or ideas for new sites (tool sites, AdSense). Load it together with `beyondseo` whenever BeyondSEO is used for an audit, competitor study, content plan or backlink plan, because BeyondSEO supplies the evidence and this skill supplies the priorities. Trigger on "what should we do for my site", "plan SEO", "SEO strategy", "audit my site", "keyword research", "rank faster", "new website SEO", "Search Console", "GEO", "AEO", "get recommended by ChatGPT", "Ghulam Ali", even if no skill is named.
+description: Practitioner SEO + GEO/AEO playbook distilled from Ghulam Ali's most-watched 2026 YouTube videos (GMS Digitals), meant to sit on top of the BeyondSEO and seo-site-audit skills. Use whenever the user wants to decide WHAT to do for a website and in what order - untapped keyword research, topical mapping, competitor reverse-engineering, semantic content, technical SEO secrets, backlink quality, the 30-day SEO+GEO roadmap, getting cited in ChatGPT/Gemini/Perplexity, local SEO keywords, why a site is not ranking, growing traffic from existing pages, Shopify and e-commerce stores (product pages, collections, filters, blog posts that sell, competitor store teardown), or ideas for new sites (tool sites, AdSense). Load it together with `beyondseo` whenever BeyondSEO is used for an audit, competitor study, content plan or backlink plan, because BeyondSEO supplies the evidence and this skill supplies the priorities. Trigger on "what should we do for my site", "plan SEO", "SEO strategy", "audit my site", "keyword research", "rank faster", "new website SEO", "Search Console", "GEO", "AEO", "get recommended by ChatGPT", "Shopify SEO", "online store", "product pages", "WooCommerce", "Ghulam Ali", even if no skill is named.
 metadata:
-  version: 0.3.0
+  version: 0.4.0
   source: youtube.com/@ghulamaliseo, most-watched 2026 videos (see sources/)
 ---
 
@@ -37,10 +37,11 @@ Working order for any site: get evidence first (BeyondSEO crawl or Search Consol
 | Backlinks, internal links as authority, link quality | [backlinks-and-offpage.md](references/backlinks-and-offpage.md) |
 | ChatGPT / Gemini / Perplexity / AI Overviews visibility | [geo-aeo-playbook.md](references/geo-aeo-playbook.md) |
 | A brand-new site, step by step | [new-site-30-day-roadmap.md](references/new-site-30-day-roadmap.md) (weekly plan with GEO), [new-website-step-by-step.md](references/new-website-step-by-step.md) (full order of work: research, content, on-page, technical, links) |
-| "Why do projects fail", consistency, choosing a skill or business | [operating-framework.md](references/operating-framework.md) |
+| "Why do projects fail", consistency, choosing a skill or business, SEO vs ads vs social vs email as a channel | [operating-framework.md](references/operating-framework.md) |
 | A site that does not rank, step by step diagnosis | [why-your-site-isnt-ranking.md](references/why-your-site-isnt-ranking.md) |
 | More traffic from pages that already exist (titles, CTR, internal links, refresh, content gaps), good for an established shop | [grow-existing-site-without-new-content.md](references/grow-existing-site-without-new-content.md) |
 | Rank without leaning on backlinks, worked keyword example | [rank-without-backlinks.md](references/rank-without-backlinks.md) |
+| An online shop (Shopify, also WooCommerce): product and collection page copy, filters and duplicate URLs, store keyword research, blog posts that rank but do not sell, copying a competitor store's easy keywords, CRO basics, link ideas for products | [shopify-seo.md](references/shopify-seo.md) |
 | Local business keywords (neighbourhood, near me, landmarks, competitor names, mobile) | [local-seo-keywords.md](references/local-seo-keywords.md) |
 | Tool websites and AdSense: niche, AI-built tool, SEO | [tool-sites-and-adsense.md](references/tool-sites-and-adsense.md) |
 | Beginner end-to-end: intent types, keyword sweet spot, money pages, 30-day plan | [beginner-blueprint-2026.md](references/beginner-blueprint-2026.md) |

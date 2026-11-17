@@ -1,6 +1,6 @@
 # Status
 
-Last updated: 17 Nov 2026 (all 22 selected videos read)
+Last updated: 17 Nov 2026 (22 selected videos read; second pass: 7 more read, 3 duplicates, 14 still to read)
 
 Selection: the 22 most-watched 2026 videos on youtube.com/@ghulamaliseo (de-duplicated by topic), chosen in the earlier claude.ai chat "Youtube channel skills". The channel list (260 videos) is in `sources/channel_list_260_videos.txt`.
 
@@ -30,6 +30,18 @@ Selection: the 22 most-watched 2026 videos on youtube.com/@ghulamaliseo (de-dupl
 | Master SEO in 2026: Google + AI Search | 6,900 | https://www.youtube.com/watch?v=4vxmyDBAPzM |
 | I've never shared before these Local SEO Keyword Research Methods | 6,900 | https://www.youtube.com/watch?v=JDTX33m8lgw |
 | How to Rank on Google Without Backlinks? | 6,600 | https://www.youtube.com/watch?v=bBxHKLSQuug |
+
+## Second pass (17 Nov 2026): the other 24 videos of 2026, Shopify and e-commerce first
+
+Usama asked to add Shopify skills (he has e-commerce sites). The 24 remaining 2026 videos are listed in `sources/unread_24.tsv`. Progress is in `sources/progress-shopify-batch.md`.
+
+**Done (7):** the six Shopify and e-commerce videos plus the 2026 online-business video, all in [references/shopify-seo.md](references/shopify-seo.md) (the business-model one is in [references/operating-framework.md](references/operating-framework.md)). Their table is at the top of shopify-seo.md.
+
+**Skipped as duplicates (3):** `nAO8_q7mOyM` is the same technical-audit talk as `DK1XqGanZl4` with a re-cut hook (same eight secrets); `G-7gJY0egJE` is the same five local-keyword methods as `JDTX33m8lgw`; `0nzYcQAQO6A` has **no captions** on YouTube at all and carries the same title as the tool-site live-process video already read (`9EIM33S5BgM`), which the existing tool-sites note already says is told in several versions.
+
+**Still to read (14):** `uELVUK4bGX0` (sold a tool site for 14K), `QGkFpAJVpD8` (30 day plan top agencies run), `2mNFqOadVLY` (11 minutes of SEO), `-wAl_HKE9ZU` (10K a month tool site), `pYolbhgtLew` (7 steps), `tekbSenuX4w` (new GMB in 14 days), `z7vZJP3rYCw` (local case 20K a month), `cMD6HkvHvik` (laziest way to get customers), `nia1Wg7odxc` (SEO not hard), `LSjSx_KQ7Zo` (AI tools), `eeoDyzZmeAM` (change your life), `Kyf6zDRSm04` (real estate SEO), `pFtYbWx1GSk` (website architecture), `PVjK7gtG9Ik` (restaurant SEO).
+
+**Why it stopped:** the reading method needs the Claude desktop window visible (YouTube does not render the description and transcript sections while the window is minimized, and screenshots time out). Reading the caption data straight from YouTube's own endpoints was tried and rejected as going beyond how a viewer reads the page, so it should not be repeated. To continue: keep the window in front, open each watch page in the built-in browser, scroll once, click "Show transcript", read the panel.
 
 ## How the last ten were obtained
 

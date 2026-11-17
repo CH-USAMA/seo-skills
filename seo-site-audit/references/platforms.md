@@ -49,6 +49,7 @@ Purge after every change before you verify: LiteSpeed `wp litespeed-purge all`; 
 - Redirects: Online Store, Navigation, View URL redirects (these are 301s). Changing a handle offers to create one; accept.
 - Alt text: edit on the product media. Structured data comes from the theme (check `Product` JSON-LD validity; apps often add a duplicate).
 - `robots.txt.liquid` can adjust robots rules (rarely needed).
+- For a practitioner's plan for the shop itself (product and collection page copy, filters, store keyword research, blog posts that sell), see `shopify-seo.md` in the `ghulamali-seo-master` playbook, if it is installed.
 
 ## Next.js, Astro and other frameworks, and static HTML
 - Next.js (App Router): per-route `metadata` or `generateMetadata` for `title`, `description`, `alternates.canonical`, `openGraph`; `app/sitemap.ts` and `app/robots.ts`; `next/image` with `alt`, width and height (priority only for the hero); `<html lang>` in the root layout; `redirects()` in `next.config.js` with `permanent: true` (308 is treated as permanent); call `notFound()` for missing data so the status is a real 404, not a 200 "not found" page; keep `trailingSlash` consistent.

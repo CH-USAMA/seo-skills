@@ -43,6 +43,21 @@ Use this scorecard when the user asks which new idea, site or service to pursue.
 
 His own story (waiter, AdSense site hit by a Google update, content agency killed by ChatGPT, Fiverr, then multiple income sources) leads to one rule: **do not rely on one income source**. Content creation, own sites and client work together.
 
+## Choosing a customer-acquisition channel (`vSuM9qRiR2M`, "Right Way to Build an Online Business in 2026", 9 Mar)
+
+His premise: an online business is a product, service or skill sold digitally around the clock, and the later you start the harder it gets. He started on Fiverr (Java coding, first $100), then chose SEO because every business that moves online needs a site and a site needs traffic. His comparison of the four main routes, judged on difficulty, upfront money and what scaling costs (his opinions, not data):
+
+| Channel | Start | Upfront money | Scaling |
+|---|---|---|---|
+| **SEO** | easy, learnable free from blogs and videos | low: domain and hosting, site design, an AI writing subscription | cheap, because more pages cost almost nothing; the risk is repeating SEO mistakes at scale |
+| **Social media, organic** | hard to do well | real: video and editing setup, tools | cost rises with every unit of output |
+| **Social or search ads (SEM)** | easy to launch | an ad budget from day one, and testing burns money | scaling is directly tied to spend |
+| **Email** | mid, needs good copywriting and valuable emails | free at first, tool cost grows with the list | expensive at large size, **highest ROI**, but it only works once you have an audience to build the list from |
+
+His pick: SEO, because it is easy to start, easy to scale and can begin on about $100. He pairs it with the practical advice to build the site first (a portfolio site for a student offering a skill, a product or service listing for a business), and says that if it is a first site, hiring someone is better than fighting through it. For a shop, the order is: site, then SEO (or paid ads for speed), then email once there are customers to list.
+
+How to use it: when the user (or a client with an e-commerce store) asks where to spend effort or money, use this table to say why SEO is the cheap, compounding channel, why ads pay back only with sound unit economics (see `seo-site-audit`), and why email comes after traffic.
+
 ## Using this for the user's decisions
 
 - When a user asks "what should I do next", rank options by this scorecard plus evidence from the site.
