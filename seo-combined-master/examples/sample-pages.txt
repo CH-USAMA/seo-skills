@@ -1,0 +1,13 @@
+https://example.com/feast-of-the-year-22-november/ 26 8,929 0.3% 7.7
+https://example.com/ 12 204 5.9% 7.4
+https://example.com/product-category/gifts/ 6 44 13.6% 7.1
+https://example.com/how-to-guide-a/ 3 735 0.4% 17.7
+https://example.com/guide-by-day-of-the-week/ 2 1,024 0.2% 11.3
+https://example.com/charity-page/ 2 595 0.3% 17.1
+https://example.com/live-stream-page/ 1 704 0.1% 9.1
+https://example.com/what-is-water/ 1 209 0.5% 13.7
+https://example.com/holy-day-december-8/ 0 183 0% 13.1
+https://example.com/shop/ 0 52 0% 31.7
+https://example.com/delivery/ 0 44 0% 5.7
+https://example.com/my-account/ 0 21 0% 5.1
+https://example.com/tag/vimeo/ 0 10 0% 7.7

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# built or downloaded, not source
+_upstream/
+beyondseo-plus/
+dist/
+.venv/

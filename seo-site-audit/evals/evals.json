@@ -1,0 +1,35 @@
+{
+  "skill_name": "seo-site-audit",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "my wordpress shop (woocommerce, rank math, elementor, hosted on hostinger) barely shows up on google. i have ssh + wp-cli access. can you work out what's wrong and fix the safe stuff? its a small irish catholic gifts business and the owner is picky about wording so dont invent anything",
+      "expected_output": "Takes a backup before changing anything; runs the audit script and reads the sitemap, titles, descriptions, H1s, duplicates; checks for demo/placeholder pages and fake contact details; fixes in severity order with reversible changes; uses only facts found on the site; verifies on the live HTML after purging caches; ends with a plain-language report including owner-only Search Console steps (submit sitemap, request indexing).",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "got an email from google search console saying 'Some fixes failed for Page indexing issues: Not found (404)'. we already redirected the dead urls last week. what is going on and what do i do next?",
+      "expected_output": "Explains that validation fails if any listed URL still 404s or if links keep pointing at dead URLs; asks for or reads the list of failing URLs; checks each URL's status without following redirects; looks for the source of the 404s (broken internal links, template links to IDs or old paths, old sitemap entries); fixes with 301s or removes the links; tells the owner to click Validate fix again and that it takes days to weeks.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "we launch a next.js portfolio + blog on vercel next week (https://example.dev). can you do an seo pass first? we're not using wordpress so dont assume plugins",
+      "expected_output": "Runs the audit script on the site, uses the Next.js notes (metadata API, sitemap.ts, robots.ts, redirects, notFound for real 404s, www/apex redirect), flags soft 404s, duplicate host variants, long titles and descriptions, missing canonicals, and gives code-level fixes rather than plugin settings.",
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "my client sells small religious gifts (most items EUR 5 to 15, postage EUR 7) and wants to run google ads so he gets sales before christmas. how do i set it up and is it worth it? he has about 14 clicks a month from google so far",
+      "expected_output": "Does not build a campaign first. Measures median price, average order, shipping and margin (asks for cost prices or uses a range), computes profit per order after fees, then cost per order as click price divided by conversion rate with planning ranges (clicks about EUR 0.40 to 1.50 in Ireland, 1% to 2.5% purchase conversion), shows a table, concludes that ads lose money at these prices, explains a small test teaches little, and proposes better options (Keyword Planner check, capped test only if the owner insists, face-to-face, marketplace, partner sharing, bundles, finding best sellers). States uncertainty honestly and does not promise orders.",
+      "files": []
+    },
+    {
+      "id": 5,
+      "prompt": "search console emailed 'Merchant listings structured data issues: missing field validFrom in offers.priceSpecification' for my woocommerce shop. also my product pages say postage is 5 euro but checkout charges 7. what do i do?",
+      "expected_output": "Opens the example URL named in the email and checks whether it is a deleted or redirected page; fetches all product pages and parses JSON-LD to confirm priceSpecification.validFrom is present; simulates carts (home country, EU, rest of world, special shipping classes) to learn the real charges; updates structured-data shipping figures per shipping class and corrects stale price text in descriptions; warns about per-class shipping adding up; tells the owner to click Validate fix and that it takes days to weeks.",
+      "files": []
+    }
+  ]
+}
